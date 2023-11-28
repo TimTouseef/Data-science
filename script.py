@@ -1,0 +1,11 @@
+print("touseef")
+print('touseef')
+print('touseef')
+print(4)
+print(4+4)
+print(5**5)
+print(2.2)
+a=4+4
+print(a)
+ab=(2*3)
+print(ab)
